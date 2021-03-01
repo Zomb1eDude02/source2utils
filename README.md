@@ -1,3 +1,5 @@
+***These utilities have been modified to work with my tool, src2src. Download here https://github.com/Zomb1eDude02/source2utils ***
+
 ***HEY! These utilities are still broken in a lot of ways and will fail very often. Please use with the understanding that it doesn't perfectly convert files yet and will only go through certain texture sets perfectly.***
 
 # source2utils
